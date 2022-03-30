@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lukas Rodrigues Da Silva</h1>
-  <h2>Computer Science Student </h2>
+  <h2>Web Developer</h2>
   <h3>Recife-Pe, Brazil</h3>     
 </div>
 <div align="center">
