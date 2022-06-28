@@ -14,7 +14,8 @@
   <img align="center" alt="rroz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="rroz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="rroz-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="lukyie-vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-         Vue.js_Logo_2.svg.png">
+  <img align="center" alt="lukyie-vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-                        Vue.js_Logo_2.svg.png">
+  <img align="center" alt="rroz-node" height="30" width="40" src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-  thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg">
 </div>
   <br>
 <br>
