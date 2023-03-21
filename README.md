@@ -17,8 +17,7 @@
   <img align="center" alt="lukyie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="lukyie-vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-                        Vue.js_Logo_2.svg.png">
   <img align="center" alt="lukyie-node" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-  <img align="center" alt="lukyie-node" height="30" width="40" src="https://raw.githubusercontent.com/amphp/logo/master/repos/postgres.png?v=12-07-2017">
-  <img align="center" alt="lukyie-node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+Typescript_logo_2020.svg.png">
 </div>
   <br>
 <br>
